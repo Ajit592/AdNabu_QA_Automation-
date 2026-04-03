@@ -1,13 +1,27 @@
 # AdNabu QA Automation Assignment
 
-## Overview
-Automation of search and add to cart functionality using Selenium + Python.
+## 📌 Overview
+This project automates a key user flow of an e-commerce application:
+Search for a product and add it to the cart.
 
-## Setup
-pip install -r requirements.txt
+## 🛠 Tech Stack
+- Python
+- Selenium WebDriver
+- Pytest
+- Page Object Model (POM)
 
-## Run
-pytest tests/
+---
 
-## Report
-pytest --html=report.html
+## 📂 Project Structure
+tests/ → Test cases  
+pages/ → Page Object Model classes  
+utils/ → Driver setup  
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone repository
+```bash
+git clone <your-repo-link>
+cd AdNabu_QA_Automation
