@@ -23,5 +23,5 @@ utils/ → Driver setup
 
 1. Clone repository
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Ajit592/AdNabu_QA_Automation->
 cd AdNabu_QA_Automation
