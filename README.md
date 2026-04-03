@@ -1,2 +1,13 @@
-# AdNabu_QA_Automation-
-QA Automation project for AdNabu assignment using Python, Selenium &amp; Pytest. Implements Product Search and Add-to-Cart flow with Page Object Model (POM) and explicit waits.
+# AdNabu QA Automation Assignment
+
+## Overview
+Automation of search and add to cart functionality using Selenium + Python.
+
+## Setup
+pip install -r requirements.txt
+
+## Run
+pytest tests/
+
+## Report
+pytest --html=report.html
